@@ -31,6 +31,8 @@ NaturalVision Evolved transforms GTA V into a photorealistic experience. ENB for
 ## 🎯 What Is ENB for NVE?
 
 ENB for NVE is a custom ENB Series configuration optimized specifically for NaturalVision Evolved (NVE) graphics mod for Grand Theft Auto V. This preset includes:
+<img width="1200" height="676" alt="image" src="https://github.com/user-attachments/assets/2418d1b5-a917-4a7a-b687-64d42456b2e9" />
+<img width="1200" height="676" alt="image" src="https://github.com/user-attachments/assets/c7143048-15bc-4255-ab54-6c1364b6f58c" />
 
 **Advanced Post-Processing**
 - **Screen-space ray tracing** — Realistic light bouncing and reflections
